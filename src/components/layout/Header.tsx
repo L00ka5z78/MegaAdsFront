@@ -20,7 +20,7 @@ export const Header = () => {
             <h1>
                 <strong>MEGA</strong> advertisements
             </h1>
-            <Btn text="Add advertisement"/>
+            <Btn to='./add' text="Add advertisement"/>
             <form className="search" onSubmit={setSearchFromLocalState}>
 
                 <input type="text" value={inputVal} onChange={e => setInputVal(e.target.value)}/>
