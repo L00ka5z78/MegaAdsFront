@@ -17,7 +17,6 @@ export const App = () => {
                     <Route path="/" element={<Map/>}/>
                     <Route path="/add" element={<AddForm/>}/>
                 </Routes>
-                <Map/>
             </SearchContext.Provider>
         </>
     );
