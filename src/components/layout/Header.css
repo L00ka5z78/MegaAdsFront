@@ -18,3 +18,8 @@ header h1 {
     width: 13em;
     margin-right: 5px;
 }
+.link {
+    color: white;
+    text-decoration: none;
+
+}
