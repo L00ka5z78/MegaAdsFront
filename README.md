@@ -21,7 +21,8 @@ ExpressJs, Typescript, MySql database React, testing with JEST.
  2. Clone the backend: git clone https://github.com/L00ka5z78/MegaAdsBack
 
 ### Install required dependencies.
-Start the frontend and start the backend 
+* Start the frontend.
+* start the backend.
 Scripts in package.json file
 
 App when you can add advertisements and display them on the map.
