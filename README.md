@@ -4,14 +4,14 @@
 Here is a project of app where you can add advertisements and display them on the map.
 Basic features implemented. Like map, adding ads, displaying one add.
 
-# This is project in progress.
-### I will upgrade it soon. Will write rest CRUD operations add probably login -register - logout feature with JWT auth.
+## This is project in progress.
+### I will upgrade it soon. I will write rest CRUD operations add probably login -register - logout feature with JWT auth.
 
 
 It was built during MegaK bootcamp, when I learnt Typescript and advanced Node features..
 So it is not my own work. In general, in this state I added just few links to make moving in the app smoother.
  I will upgrade it, when I will find time, because I think, this project will be awesome after adding some functionalities.
-But it is, as it is.
+But now it is, as it is.
 
 ### Tech stack:
 ExpressJs, Typescript, MySql database React, testing with JEST.
